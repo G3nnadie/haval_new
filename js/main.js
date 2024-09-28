@@ -79,7 +79,7 @@ $(document).ready(function () {
   // Hero sl
   var swiper = new Swiper(".hero", {
     autoplay: {
-      delay: 54000,
+      delay: 5000,
     },
     spaceBetween: 0,
     slidesPerView: 1,
