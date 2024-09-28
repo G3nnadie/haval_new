@@ -99,7 +99,7 @@
     width: 46px;
   }
   .offers {
-    padding-top: 60px;
+    padding-top: 70px;
   }
   .offers__data {
     padding-top: 40px;
@@ -124,7 +124,7 @@
     border-color: #DDDDDD;
   }
   .service {
-    padding-top: 60px;
+    padding-top: 70px;
   }
   .service .title__sub {
     margin-top: 20px;
@@ -142,7 +142,7 @@
     margin-top: 40px;
   }
   .contacts {
-    padding-top: 60px;
+    padding-top: 70px;
   }
   .contacts .title__sub {
     margin-top: 40px;
@@ -340,7 +340,8 @@
     width: 6px;height: 11px;
   }
   .header {
-    padding: 20px 0 17px;
+    padding: 12px 0;
+    box-shadow: 0 0 10px rgb(0 0 0 / 9%);
   }
   .logo {
     width: 156px;
@@ -378,7 +379,7 @@
     top: -8px;
   }
   .nav {
-    top: 84px;
+    top: 71px;
   }
   .hero__item {
     padding: 0;
@@ -486,7 +487,7 @@
     margin-top: 20px;
   }
   .models {
-    padding-top: 60px;
+    padding-top: 70px;
   }
   .models .row {
     margin-top: 0;
@@ -606,7 +607,7 @@
     margin-left: 8px;
   }
   .nav {
-    top: 80px;
+    top: 67px;
   }
   .hero__title {
     font-size: 18px;
